@@ -30,6 +30,8 @@ Moreover, Re⧖Bon can help you with recycling wastes. There are pages that show
 
 # Methodology
 <!--서비스 흐름도 첨부-->
+![image](https://user-images.githubusercontent.com/98610112/154822579-983a1ea8-c68f-4108-873b-fc421f3effb3.png)
+
 
 
 # Business Analysis
