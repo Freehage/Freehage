@@ -9,7 +9,7 @@ Project for KPMG Ideathon 2022, RE⧖BON | Carbon Neutral Practice Helper Applic
 
 Presently, carbon neutrality is one of the most discussed issues in the world. Now, what does 'carbon neutrality' mean, and why is it considered important? Carbon neutrality, according to dictionary, means the balance between emitting carbon and absorbing carbon emissions from carbon sinks. By becoming carbon neutral, greenhouse gas emissions that cause global warming can be reduced.
 
-Introducing team 'Free하게'. In the word carbon-free, free means 'to be without something.' Wishing zero-carbon emissions, 'Free하게' became the team name.
+Introducing team 'Free하게'. In the word carbon-free, free means 'to be without something'. Wishing zero-carbon emissions, 'Free하게' became the team name.
 
 Re⧖Bon is an application that helps people to go carbon neutral from consumption to disposal. It can help you to buy carbon neutral products by:
 - searching (via text or via image)
