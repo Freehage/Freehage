@@ -18,7 +18,7 @@ Re⧖Bon is an application that helps people to go carbon neutral from consumpti
 Moreover, Re⧖Bon can help you with recycling wastes. There are pages that show you how to recycle correctly, give tips for recycling, and recommend close zero waste stores around your current location.
 
 <!--Background, Pain Point, Solution-->
-![image](https://user-images.githubusercontent.com/98610112/154820488-d526a56b-a313-4a7e-aeb8-5b744244c25b.png)
+![image](https://user-images.githubusercontent.com/98610112/154824008-97abd20b-4df4-466b-8c1e-ce9e2d719548.png)
 
 # Overview
 <!--주요 기술 작동 영상 첨부-->
