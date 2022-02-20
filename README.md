@@ -2,7 +2,7 @@
 Project for KPMG Ideathon 2022, RE⧖BON | Carbon Neutral Practice Helper Application from Consumption to Emission.
 
 ✔ https://github.com/Freehage/Free
-![image](https://user-images.githubusercontent.com/98610112/154824337-8ab8933b-afd7-4593-9d1c-b9c6fc320866.png)
+![image](https://user-images.githubusercontent.com/98610112/154824382-c6a78932-30e5-47f3-b546-529362382ffa.png)
 
 
 <!--소비부터 배출까지 탄소중립 실천 도우미 어플리케이션, RE⧖BORN.-->
